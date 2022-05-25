@@ -54,11 +54,11 @@
             "inputs": {}
         },
         "dabs_per_actual_radius": {
-            "base_value": 2.0,
+            "base_value": 2.10,
             "inputs": {}
         },
         "dabs_per_basic_radius": {
-            "base_value": 2.01,
+            "base_value": 2.20,
             "inputs": {}
         },
         "dabs_per_second": {
@@ -85,7 +85,7 @@
             }
         },
         "elliptical_dab_ratio": {
-            "base_value": 6.34,
+            "base_value": 5.15,
             "inputs": {
                 "speed1": [
                     [
@@ -180,7 +180,7 @@
             "inputs": {}
         },
         "opaque": {
-            "base_value": 1.0,
+            "base_value": 1.10,
             "inputs": {
                 "pressure": [
                     [
@@ -238,7 +238,7 @@
             "inputs": {}
         },
         "radius_logarithmic": {
-            "base_value": 4.11,
+            "base_value": 4.25,
             "inputs": {}
         },
         "restore_color": {
@@ -294,7 +294,7 @@
             "inputs": {}
         },
         "speed2_slowness": {
-            "base_value": 0.8,
+            "base_value": 0.7,
             "inputs": {}
         },
         "stroke_duration_logarithmic": {
